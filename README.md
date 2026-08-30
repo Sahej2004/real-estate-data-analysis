@@ -35,7 +35,7 @@ The project analyzes:
 
 The scatter plot explores the relationship between property area and rate per square foot, along with a trend line.
 
-![Area vs Rate per Sqft](area-vs-rate.png)
+![Area vs Rate per Sqft](area-vs-rate-per-sqft.png)
 
 ## 📈 Analysis Output
 
